@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeid"
+        android:title="Home"
+        android:icon="@drawable/home_icon"/>
+
+    <item
+        android:id="@+id/compass"
+        android:title="Qibla Finder"
+        android:icon="@drawable/compass_icon"/>
+
+    <item
+        android:id="@+id/calender"
+        android:title="Calender"
+        android:icon="@drawable/calendar_icon"/>
+
+    <item
+        android:id="@+id/devloper_profile"
+        android:title="Devloper"
+        android:icon="@drawable/settings_icon"/>
+
+
+</menu>
